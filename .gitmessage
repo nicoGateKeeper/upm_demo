@@ -1,0 +1,14 @@
+feat : [id] 【新功能开发】  <issueNo> <message> 分别填写飞书在线文档任务单号和描述
+fix : [id] 修复bug  
+docs : [id] 文档改变
+style : [id] 代码格式调整，代码未更改
+refactor : [id] 代码重构
+chore : [id] 不修改代码的其他修改，例如配置或辅助工具的变动
+revert : [id] 撤销上一次的 commit / 执行git revert打印的message
+opt : [id] 优化  功能优化
+res : [id] 资源提交
+
+示例：
+feat：[7830] 【个人中心】头像框功能开发
+feat：[7835] 【个人中心】个人中心帮助界面开发
+fix:  [2915] 【首测】【公司内测】【协力】协力任务进入显示加密失败
